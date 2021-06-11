@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @JhonathanPinheiro
 - 👀 I’m interested in  aprender programação e  obter conhecimento na area
-- 🌱 I’m currently learning html,css e  javascript
