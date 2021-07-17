@@ -5,10 +5,10 @@
 
 <div style="display: inline_block">
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://www.w3schools.com/js/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.w3schools.com/python/default.asp" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 <a href="https://www.w3schools.com/html/default.asp" target="_blank">
