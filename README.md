@@ -28,4 +28,7 @@
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/jhonathanpinheiro)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jhonathan_pinheiro)
 
+<a href="https://www.instagram.com/jhonathan_pinheiro" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="git" width="40" height="40"/> </a>
+
   ![Snake animation](https://github.com/JhonathanPinheiro/JhonathanPinheiro/blob/output/github-contribution-grid-snake.svg)
