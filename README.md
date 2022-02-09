@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonathanPinheiro&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanPinheiro&layout=compact&theme=highcontrast) -->
 
-<img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JhonathanPinheiro&show_icons=true&theme=highcontrast&title_color=00FFFF&border_color=00FEFE&include_all_commits=true" /><img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanPinheiro&layout=compact&theme=highcontrast&title_color=00FFFF&border_color=00FEFE" />
+<img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api?username=JhonathanPinheiro&show_icons=true&theme=highcontrast&title_color=00FFFF&border_color=00FEFE&include_all_commits=true" /><img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanPinheiro&layout=compact&theme=highcontrast&title_color=00FFFF&border_color=00FEFE" />
 
 <div style="display: inline_block">
   
