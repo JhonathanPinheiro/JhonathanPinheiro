@@ -59,6 +59,10 @@ Projeto desenvolvido para praticar JavaScript, layout e interações.
   <img src="https://github-readme-stats.vercel.app/api?username=JhonathanPinheiro&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanPinheiro&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Contato
