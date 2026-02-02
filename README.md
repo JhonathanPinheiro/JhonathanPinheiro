@@ -17,12 +17,6 @@
 Sou desenvolvedor **Front-end**, focado na criação de **interfaces modernas, responsivas e intuitivas**.  
 Gosto de transformar layouts em código limpo, acessível e com boa experiência para o usuário.
 
-💡 Tenho atenção especial a:
-- Design responsivo
-- Organização de código
-- Performance no navegador
-- Experiência do usuário (UX)
-
 ---
 
 ## 🛠️ Tecnologias Front-end
@@ -37,35 +31,10 @@ Gosto de transformar layouts em código limpo, acessível e com boa experiência
 
 ---
 
-## 📂 Projetos em Destaque
-
-🔹 **Site Igreja IBC Colibris**  
-Website institucional com foco em identidade visual, responsividade e usabilidade.  
-➡️ [Ver repositório](#) | [Ver site](#)
-
-🔹 **Landing Page Responsiva**  
-Landing page moderna focada em conversão e performance.  
-➡️ [Ver repositório](#)
-
-🔹 **Projeto Front-end Pessoal**  
-Projeto desenvolvido para praticar JavaScript, layout e interações.  
-➡️ [Ver repositório](#)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonathanPinheiro&theme=tokyonight" />
-</p>
-
-
----
-
 ## 📫 Contato
 
 📧 Email: seuemail@email.com  
-💼 LinkedIn: https://www.linkedin.com/in/seu-linkedin  
+💼 LinkedIn: https://www.linkedin.com/in/jhonathan-pinheiro 
 
 ---
 
