@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor Front-end | Interfaces modernas e responsivas</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/github/followers/seu-usuario?label=Seguidores&style=social" />
+  <a href="https://github.com/jhonathanpinheiro">
+    <img src="https://img.shields.io/github/followers/jhonathanpinheiro?label=Seguidores&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin" />
@@ -56,7 +56,7 @@ Projeto desenvolvido para praticar JavaScript, layout e interações.
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonathanpinheiro&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
