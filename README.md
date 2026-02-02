@@ -5,7 +5,7 @@
   <a href="https://github.com/JhonathanPinheiro">
     <img src="https://img.shields.io/github/followers/JhonathanPinheiro?label=Seguidores&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/jhonathan-pinheiro">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin" />
   </a>
 </p>
