@@ -3,8 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonathanPinheiro&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanPinheiro&layout=compact&theme=highcontrast) -->
 
-<hr>
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jhonathan-pinheiro/)
 
 
