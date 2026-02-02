@@ -33,7 +33,7 @@ Gosto de transformar layouts em código limpo, acessível e com boa experiência
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
+📧 Email: jhonathancpinheiro@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/jhonathan-pinheiro 
 
 ---
