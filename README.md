@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Jhonathan Pinheiro</h1>
+<h1 align="center">Olá 👋, me chamo Jhonathan Pinheiro</h1>
 <h3 align="center">Desenvolvedor Front-end | Interfaces modernas e responsivas</h3>
 
 <p align="center">
