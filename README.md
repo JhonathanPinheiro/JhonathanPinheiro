@@ -24,7 +24,7 @@
 const jhonathan = {
   role:       "Frontend Developer",
   location:   "Brasil 🇧🇷 — Remoto",
-  experience: "4 anos construindo produtos reais",
+  experience: "4+ anos desenvolvendo aplicações webs",
   
   stack: {
     core:    ["React", "Next.js", "TypeScript", "JavaScript ES6+"],
@@ -35,7 +35,7 @@ const jhonathan = {
   },
 
   currently: [
-    "Aprofundando em arquitetura de Software e Microfrontends",
+    "Aprofundando arquitetura Front-end e Microfrontends",
     "Aprendendo backend com Node.js, Express, Fastify",
     "Estudando inglês 🇺🇸",
   ],
@@ -48,46 +48,19 @@ const jhonathan = {
 };
 ```
 
-<br/>
-
----
-
-## 🚀 Stack principal
-
-<div align="center">
-
-### Core
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Estilização
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### State & Data
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-### Qualidade
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-### Aprendendo agora
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-</div>
-
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonathanpinheiro&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonathanpinheiro&theme=tokyonight" />
+
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhonathanpinheiro&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://github.com/jhonathanpinheiro)
 
@@ -101,9 +74,9 @@ const jhonathan = {
 
 <div align="center">
 
-| 🚀 Projetos em produção | ⚡ Lighthouse Score | 🎨 Redução de retrabalho UI | 👥 Usuários impactados |
+| 🚀 Projetos em produção | ⚡ Lighthouse Score | 🎨 Redução de retrabalho UI | 🧩 Componentizaçã |
 |:-----------------------:|:-------------------:|:---------------------------:|:----------------------:|
-| **+10 projetos** | **90+ pontos** | **20–40%** | **Milhares** |
+| **+10 projetos** | **90+ pontos** | **20–40%** | **Interfaces reutilizáveis** |
 
 </div>
 
