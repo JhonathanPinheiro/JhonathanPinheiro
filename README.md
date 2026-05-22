@@ -62,11 +62,10 @@ const jhonathan = {
 <br/>
 
 ---
-
 ## 📌 Projetos em destaque
 
-> Os projetos fixados abaixo foram cuidadosamente selecionados para mostrar minha evolução técnica — de interfaces responsivas a arquiteturas escaláveis.
-
+> Alguns projetos que representam minha evolução com Front-end, arquitetura de aplicações e experiência do usuário.
+> 
 <br/>
 
 ---
