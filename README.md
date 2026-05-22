@@ -47,6 +47,27 @@ const jhonathan = {
   },
 };
 ```
+---
+
+## 🏆 Conquistas & Impacto
+
+<div align="center">
+
+| 🚀 Projetos em produção | ⚡ Lighthouse Score | 🎨 Redução de retrabalho UI | 🧩 Componentização |
+|:-----------------------:|:-------------------:|:---------------------------:|:----------------------:|
+| **+10 projetos** | **90+ pontos** | **20–40%** | **Interfaces reutilizáveis** |
+
+</div>
+
+<br/>
+
+---
+
+## 📌 Projetos em destaque
+
+> Os projetos fixados abaixo foram cuidadosamente selecionados para mostrar minha evolução técnica — de interfaces responsivas a arquiteturas escaláveis.
+
+<br/>
 
 ---
 
@@ -70,33 +91,11 @@ const jhonathan = {
 
 ---
 
-## 🏆 Conquistas & Impacto
-
-<div align="center">
-
-| 🚀 Projetos em produção | ⚡ Lighthouse Score | 🎨 Redução de retrabalho UI | 🧩 Componentizaçã |
-|:-----------------------:|:-------------------:|:---------------------------:|:----------------------:|
-| **+10 projetos** | **90+ pontos** | **20–40%** | **Interfaces reutilizáveis** |
-
-</div>
-
-<br/>
-
----
-
-## 📌 Projetos em destaque
-
-> Os projetos fixados abaixo foram cuidadosamente selecionados para mostrar minha evolução técnica — de interfaces responsivas a arquiteturas escaláveis.
-
-<br/>
-
----
-
 ## 📈 Atividade recente
 
 <div align="center">
 
-[![Jhonathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhonathanpinheiro&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true)](https://github.com/jhonathanpinheiro)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonathanpinheiro&theme=tokyonight" />
 
 </div>
 
