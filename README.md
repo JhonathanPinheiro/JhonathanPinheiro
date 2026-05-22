@@ -24,7 +24,7 @@
 const jhonathan = {
   role:       "Frontend Developer",
   location:   "Brasil 🇧🇷 — Remoto",
-  experience: "4+ anos desenvolvendo aplicações webs",
+  experience: "4+ anos desenvolvendo aplicações web",
   
   stack: {
     core:    ["React", "Next.js", "TypeScript", "JavaScript ES6+"],
@@ -62,10 +62,15 @@ const jhonathan = {
 <br/>
 
 ---
-## 📌 Projetos em destaque
 
-> Alguns projetos que representam minha evolução com Front-end, arquitetura de aplicações e experiência do usuário.
-> 
+## 📈 Atividade recente
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonathanpinheiro&theme=tokyonight" />
+
+</div>
+
 <br/>
 
 ---
@@ -90,14 +95,10 @@ const jhonathan = {
 
 ---
 
-## 📈 Atividade recente
+## 📌 Projetos em destaque
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonathanpinheiro&theme=tokyonight" />
-
-</div>
-
+> Alguns projetos que representam minha evolução com Front-end, arquitetura de aplicações e experiência do usuário.
+> 
 <br/>
 
 ---
