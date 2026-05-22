@@ -97,11 +97,7 @@ const jhonathan = {
 
 ## 📌 Projetos em destaque
 
-> Alguns projetos que representam minha evolução com Front-end, arquitetura de aplicações e experiência do usuário.
-> 
-<br/>
-
----
+> Logo abaixo do README estão alguns projetos que representam minha evolução em Front-end, arquitetura de aplicações e experiência do usuário.
 
 <div align="center">
 
