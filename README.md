@@ -24,7 +24,7 @@
 const jhonathan = {
   role:       "Frontend Engineer",
   location:   "Brasil 🇧🇷 — Remoto",
-  experience: "4+ anos desenvolvendo aplicações web",
+  experience: "4+ anos de experiência em desenvolvimento frontend com React, Next.js e TypeScript",
   
   stack: {
     core:    ["React", "Next.js", "TypeScript", "JavaScript ES6+"],
