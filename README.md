@@ -22,7 +22,7 @@
 
 ```typescript
 const jhonathan = {
-  role:       "Frontend Developer",
+  role:       "Frontend Engineer",
   location:   "Brasil 🇧🇷 — Remoto",
   experience: "4+ anos desenvolvendo aplicações web",
   
