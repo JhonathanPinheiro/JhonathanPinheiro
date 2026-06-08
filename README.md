@@ -86,9 +86,6 @@ const jhonathan = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonathanpinheiro&theme=tokyonight" />
 
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhonathanpinheiro&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://github.com/jhonathanpinheiro)
-
 </div>
 
 <br/>
